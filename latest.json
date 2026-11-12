@@ -1,1 +1,18 @@
-{"schema":1,"package":"in.chirag.audiotrain","versionCode":0,"versionName":"unpublished","changelog_hi":["अभी नया रिलीज़ प्रकाशित नहीं हुआ है।"],"downloadUrl":"","status":"preparing"}
+{
+  "schema": 1,
+  "package": "in.chirag.audiotrain",
+  "versionCode": 4,
+  "versionName": "0.4-test",
+  "changelog_hi": [
+    "आखिरी घोषणा और कंट्रोल निर्देश अलग से फिर सुनें।",
+    "यात्री चढ़ना, चलने की तैयारी, गार्ड सीटी, दरवाजे बंद और प्रस्थान का क्रम।",
+    "पहले लाल सिग्नल पर रुकना और छह सेकंड बाद हरे सिग्नल पर बढ़ना।",
+    "स्टेशन ठहराव के अंक और सुरक्षा स्कोर।",
+    "अलग सीटी, घंटी और दरवाजे की CC0 रिकॉर्डिंग। ये मुंबई की रिकॉर्डिंग नहीं हैं।",
+    "इंटरनेट से असली प्रकाशित अपडेट की जांच। नया APK उपलब्ध होने पर इसी स्क्रीन से ब्राउज़र में डाउनलोड खोलें।"
+  ],
+  "downloadUrl": "https://github.com/audio-local-releases/mumbai-audio-local/releases/download/v0.4-test/Mumbai-Audio-Local-v0.4-test.apk",
+  "status": "published",
+  "channel": "test",
+  "sha256": "26b22e50032f6ac97181c315e4af46d130d0754d9a726301653970f406eb06f3"
+}
